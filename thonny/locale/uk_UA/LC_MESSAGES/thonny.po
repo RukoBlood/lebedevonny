@@ -1691,7 +1691,7 @@ msgstr "Ця команда недоступна, якщо Thonny запуска
 
 #: thonny/workbench.py:700 thonny/workbench.py:799
 msgid "Support Ukraine"
-msgstr "Підтримайте Україну"
+msgstr "Чиназес"
 
 #: thonny/plugins/backend_config_page.py:90
 msgid "Which kind of interpreter should Thonny use for running your code?"
