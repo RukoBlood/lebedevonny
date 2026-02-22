@@ -1,5 +1,6 @@
 `Support Артемия Лебедева! <https://vkvideo.ru/@temalebedev>`_
 
+Внимание: Проект не завершён.
 ======
 LebedevOnny
 ======
