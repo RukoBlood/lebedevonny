@@ -8,5 +8,4 @@ LebedevOnny is a Python `IDE <https://en.wikipedia.org/wiki/Integrated_developme
 
 Sponsors
 ----------
-Артемий Лебедев
-Екатерина Мизулина
+Артемий Лебедев и Екатерина Мизулина
